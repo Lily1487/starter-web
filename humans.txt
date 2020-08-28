@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lilia Rivera lilia.rivera@adidas.com 
 
 # THANKS
 
